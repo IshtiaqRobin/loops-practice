@@ -18,6 +18,6 @@ while(number < 10){
     console.log(number);
 } */
 
-for(i = 20; i >= 1; i--){
-    console.log(i);
-}
+// for(i = 20; i >= 1; i--){
+//     console.log(i);
+// }
